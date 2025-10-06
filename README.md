@@ -30,13 +30,6 @@ These are the modules as per the course outline. As I complete each, I’ll fill
 
 ---
 
-## How I Use This Log
-
-- **Status** — mark as "Not Started, “In Progress”, “Completed”
-- **Summary / Notes** — a short write‑up in your own words: what the key learnings were, challenges, insights  
-- **Artifacts / Links** — link to your Jupyter notebooks, `.ipynb`, `.py` scripts, or GitHub pages  
-- Optionally, include **Reflection** sections (what I found easy/difficult, ideas to explore further)  
-
  ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
